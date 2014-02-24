@@ -1,0 +1,9 @@
+Building PigCoin
+
+See doc/readme-qt.rst for instructions on building PigCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PigCoin.
+
+See doc/build-*.txt for instructions on building PigCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PigCoin.
